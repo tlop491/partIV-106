@@ -17,6 +17,8 @@ This repository will serve as a way to collabrate between all members of the gro
 * <a href="https://bitcoin.org/bitcoin.pdf">Bitcoin White Paper</a>
 * <a href="https://github.com/ethereum/wiki/wiki/White-Paper">Ethereum  White Paper</a>
 * <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/etep.2374">Distributor “time value” pricing framework to schedule distributed energy resources</a>
+* <a href="https://powerledger.io/media/Power-Ledger-Whitepaper-v8.pdf">Power Ledger White Paper</a>
+* Please update with any other relevant papers
 
 
 
