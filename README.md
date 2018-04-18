@@ -7,13 +7,19 @@ Block chain  architecture, using Ethereum hard-fork implementation of Smart Cont
 
 The aim of 2018 project is to come up with a peer-to-peer trading platform based on the 2017 project learnings but extending it to technical and pricing developments in power system economics for a case-study of co-located or neighbourhood residential community that have invested in smart grid technologies like solar PV, battery storage and electric vehicles.  The concept of time-value (as per the following publication) is one option that can be explored along with others that the project student group comes up with.
 
-Zhang, Z. J., & Nair, N.-K. (2017). Distributor “time value” pricing framework to schedule distributed energy resources. International Transactions on Electrical Energy Systems, e2374-e2374. 10.1002/etep.2374
-
-
 Data from communities in New Zealand that have invested in solar/battery and EV trials are available to the Power system research group through ongoing and past research projects can be used by the this project.
 
 ## Getting Started
 This repository will serve as a way to collabrate between all members of the group as well as the supervisors. The repository contains papers, minutes and other administrative files. Project implementation code will eventually be added and become the main use of this. Research Papers will be those which are most useful and shareable within copyright. There will also be a summary of useful papers.
+
+## Foundation Papers
+
+* <a href="https://bitcoin.org/bitcoin.pdf">Bitcoin White Paper</a>
+* <a href="https://github.com/ethereum/wiki/wiki/White-Paper">Ethereum  White Paper</a>
+* <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/etep.2374">Distributor “time value” pricing framework to schedule distributed energy resources</a>
+* <a href="https://powerledger.io/media/Power-Ledger-Whitepaper-v8.pdf">Power Ledger White Paper</a>
+* Please update with any other relevant papers
+
 
 
 ## Authors
