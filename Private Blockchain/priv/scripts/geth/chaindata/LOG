@@ -1,0 +1,8 @@
+=============== Jul 19, 2018 (NZST) ===============
+07:47:41.705807 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+07:47:41.713573 db@open opening
+07:47:41.717760 version@stat F·[] S·0B[] Sc·[]
+07:47:41.723409 db@janitor F·2 G·0
+07:47:41.723480 db@open done T·9.844613ms
+07:50:17.198803 db@close closing
+07:50:17.199022 db@close done T·212.703µs
