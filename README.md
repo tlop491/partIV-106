@@ -34,4 +34,4 @@ This repository will serve as a way to collabrate between all members of the gro
 * Abhinav Rakesh Chopra
 * Mohammad Javad Sanjari 
 
-![](106PosterPrint.pdf)      
+      
